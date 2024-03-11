@@ -108,8 +108,6 @@ public class Main {
 
     System.out.println(finalMonth + " " + date + "," + year);
     scan.close();
-
-    System.out.println("Year entered: " + year + " is leap: " + isLeapYear);
   }
 }
 
